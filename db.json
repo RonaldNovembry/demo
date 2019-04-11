@@ -270,5 +270,13 @@
          "Approved":"Rp. 800.000",
          "Excess":"Rp. 200.000"
       }
+   ],
+   "report":[  
+      {  
+         "Bulan":"April",
+         "Number of Claims":"2031",
+         "Total Claim Amount":"Rp. 3.302.113.000",
+         "Claim Approved":"Rp. 2.192.003.000"
+      }
    ]
 }
