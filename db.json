@@ -1,14 +1,274 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{  
+   "customeraccount":[  
+      {  
+         "id":1,
+         "Name":"Andi",
+         "No AdMedika":"8000234788344738",
+         "Corporate":"PT. GLOBAL NETWORK",
+         "Policy":"HEALTH PLUS NETWORK",
+         "Tanggal Lahir":"26 September 1981"
+      },
+      {  
+         "id":2,
+         "Name":"Bobby",
+         "No AdMedika":"8000234788343123",
+         "Corporate":"PT. GLOBAL NETWORK",
+         "Policy":"HEALTH PLUS NETWORK",
+         "Tanggal Lahir":"11 Januari 1989"
+      },
+      {  
+         "id":3,
+         "Name":"Cica",
+         "No AdMedika":"8000234788343335",
+         "Corporate":"PT. GLOBAL NETWORK",
+         "Policy":"HEALTH PLUS NETWORK",
+         "Tanggal Lahir":"10 November 1992"
+      },
+      {  
+         "id":4,
+         "Name":"Dimas",
+         "No AdMedika":"8000234788345465",
+         "Corporate":"PT. GLOBAL NETWORK",
+         "Policy":"HEALTH PLUS NETWORK",
+         "Tanggal Lahir":"01 September 1991"
+      },
+      {  
+         "id":5,
+         "Name":"Eko",
+         "No AdMedika":"8000234788344123",
+         "Corporate":"PT. GLOBAL NETWORK",
+         "Policy":"HEALTH PLUS NETWORK",
+         "Tanggal Lahir":"30 September 1991"
+      },
+      {  
+         "id":6,
+         "Name":"Fajar",
+         "No AdMedika":"8000234788312334",
+         "Corporate":"PT. GLOBAL NETWORK",
+         "Policy":"HEALTH PLUS NETWORK",
+         "Tanggal Lahir":"17 Agustus 1990"
+      }
+   ],
+   "customerbenefit":[  
+      {  
+         "id":1,
+         "Name":"Andi",
+         "No AdMedika":"8000234788344738",
+         "Rawat Inap":"100.000.000",
+         "Rawat Jalan":"4.500.000",
+         "Rawat Gigi":"1.000.000",
+         "Kacamata":"1.050.000"
+      },
+      {  
+         "id":2,
+         "Name":"Bobby",
+         "No AdMedika":"8000234788344738",
+         "Rawat Inap":"85.000.000",
+         "Rawat Jalan":"2.350.500",
+         "Rawat Gigi":"600.000",
+         "Kacamata":"550.000"
+      },
+      {  
+         "id":3,
+         "Name":"Cica",
+         "No AdMedika":"8000234788344738",
+         "Rawat Inap":"100.000.000",
+         "Rawat Jalan":"4.500.000",
+         "Rawat Gigi":"1.000.000",
+         "Kacamata":"1.050.000"
+      },
+      {  
+         "id":4,
+         "Name":"Dimas",
+         "No AdMedika":"8000234788344738",
+         "Rawat Inap":"50.000.000",
+         "Rawat Jalan":"4.500.000",
+         "Rawat Gigi":"1.000.000",
+         "Kacamata":"560.000"
+      },
+      {  
+         "id":5,
+         "Name":"Eko",
+         "No AdMedika":"8000234788344738",
+         "Rawat Inap":"100.000.000",
+         "Rawat Jalan":"3.000.000",
+         "Rawat Gigi":"700.000",
+         "Kacamata":"1.050.000"
+      },
+      {  
+         "id":6,
+         "Name":"Fajar",
+         "No AdMedika":"8000234788344738",
+         "Rawat Inap":"70.000.000",
+         "Rawat Jalan":"4.500.000",
+         "Rawat Gigi":"300.000",
+         "Kacamata":"1.050.000"
+      }
+   ],
+   "provider":[  
+      {  
+         "id":1,
+         "Nama Provider":"RS. PELNI PETAMBURAN ",
+         "Alamat":" K.S. TUBUN, NO.92-94 021-5306901 / 5484809"
+      },
+      {  
+         "id":2,
+         "Nama Provider":"SILOAM HOSPITAL KEBUN JERUK ",
+         "Alamat":" RAYA PERJUANGAN, KAV.8, KEBUN JERUK 021-25677888"
+      },
+      {  
+         "id":3,
+         "Nama Provider":"RS. MEDIKA PERMATA HIJAU ",
+         "Alamat":" RAYA KEBAYORAN LAMA, NO.64, 021-530 5288/534 7411"
+      },
+      {  
+         "id":4,
+         "Nama Provider":"RS ROYAL TARUMA ",
+         "Alamat":"DAAN MOGOT NO.34 GROGOL 021-56958338"
+      },
+      {  
+         "id":5,
+         "Nama Provider":"RS. PONDOK INDAH PURI INDAH ",
+         "Alamat":" PURI INDAH RAYA BLOK. S-2, KEMBANGAN SELATAN 021-25"
+      },
+      {  
+         "id":6,
+         "Nama Provider":"RS. SUMBER WARAS ",
+         "Alamat":" KYAI TAPA, GROGOL , JAKARTA BARAT 021-5682011 tekan 9"
+      },
+      {  
+         "id":7,
+         "Nama Provider":"RS GRHA KEDOYA ",
+         "Alamat":" PANJANG ARTERI NO. 26, KEDOYA UTARA,JAKARTA-BARAT, 11520 021-299"
+      },
+      {  
+         "id":8,
+         "Nama Provider":"RS JAKARTA EYE CENTER KEDOYA ",
+         "Alamat":" TERUSAN ARJUNA UTARA NO.1 KEDOYA, KEBON JERUK, JAK"
+      },
+      {  
+         "id":9,
+         "Nama Provider":"RS. JAKARTA ",
+         "Alamat":" JEND. SUDIRMAN, KAV.49 021-5732241/5741828"
+      },
+      {  
+         "id":10,
+         "Nama Provider":"RSU. MENTENG MITRA AFIA ",
+         "Alamat":" KALI PASIR, NO.9 021-3154050"
+      },
+      {  
+         "id":11,
+         "Nama Provider":"RSIA. BUDI KEMULIAAN ",
+         "Alamat":" BUDI KEMULIAAN NO. 25 021-3842828"
+      },
+      {  
+         "id":12,
+         "Nama Provider":"RSIA. TAMBAK ",
+         "Alamat":"TAMBAK NO. 18 MANGGARAI 021-319343222"
+      },
+      {  
+         "id":13,
+         "Nama Provider":"RS. ISLAM JAKARTA (CEMPAKA PUTIH) ",
+         "Alamat":" CEMPAKA PUTIH TENGAH I/1 021-4244208"
+      },
+      {  
+         "id":14,
+         "Nama Provider":"RS. KRAMAT 128 ",
+         "Alamat":" KRAMAT RAYA, NO.128 021-3909513"
+      },
+      {  
+         "id":15,
+         "Nama Provider":"RSIA. EVASARI ",
+         "Alamat":" RAWAMANGUN NO.47 021-4202851"
+      },
+      {  
+         "id":16,
+         "Nama Provider":"RS. MH. THAMRIN INTERNATIONAL ",
+         "Alamat":" SALEMBA TENGAH, NO.26-28 021-3904422"
+      },
+      {  
+         "id":17,
+         "Nama Provider":"RS. KHUSUS THT-BEDAH PROKLAMASI ",
+         "Alamat":" PROKLAMASI NO. 43 021-3900002"
+      },
+      {  
+         "id":18,
+         "Nama Provider":"RS. PERTAMINA JAYA ",
+         "Alamat":" A. YANI NO.2 021-4204056/4211911"
+      },
+      {  
+         "id":19,
+         "Nama Provider":"RS. ABDI WALUYO ",
+         "Alamat":" H.O.S. COKROAMINOTO, NO.31-33 021-3144989"
+      },
+      {  
+         "id":20,
+         "Nama Provider":"RS. PGI. CIKINI ",
+         "Alamat":" RADEN SALEH, NO.40 021-38997777"
+      },
+      {  
+         "id":21,
+         "Nama Provider":"RS SAHID SAHIRMAN ",
+         "Alamat":" JEND. SUDIRMAN NO. 86, JAKARTA 021-57853911"
+      },
+      {  
+         "id":22,
+         "Nama Provider":"RSIA. YPK MANDIRI ",
+         "Alamat":" GEREJA THERESIA NO. 22, JAKARTA PUSAT 021-3909725"
+      },
+      {  
+         "id":23,
+         "Nama Provider":"MRCCC SILOAM HOSPITAL SEMANGGI (SEMANGGI SPECIALIST) ",
+         "Alamat":" GARNISUN 2-3, KARET , JAKA"
+      },
+      {  
+         "id":24,
+         "Nama Provider":"RS. BEDAH THT PROF NIZAR ",
+         "Alamat":" KESEHATAN NO. 9, JAKARTA PUSAT 021-3503435"
+      },
+      {  
+         "id":25,
+         "Nama Provider":"RSAL DR MINTOHARDJO ",
+         "Alamat":"BENDUNGAN HILIR NO.17 021-5703081"
+      },
+      {  
+         "id":26,
+         "Nama Provider":"RSU. BUNDA ",
+         "Alamat":" TEUKU CIK DITIRO NO. 21 MENTENG JAKARTA 021-3192344"
+      },
+      {  
+         "id":27,
+         "Nama Provider":"RS KHUSUS BEDAH SALEMBA SATU (RS BEDAH SS MEDIKA) ",
+         "Alamat":" SALEMBA I NO. 11 JAKARTA PUSA"
+      },
+      {  
+         "id":28,
+         "Nama Provider":"RSIA. BUDHI JAYA ",
+         "Alamat":" DR. SAHARJO, NO.120 021-8292672/8311722/2378"
+      },
+      {  
+         "id":29,
+         "Nama Provider":"RS. TRIA DIPA ",
+         "Alamat":"RAYA PASAR MINGGU, NO.3A, PANCORAN 021-797 4071"
+      },
+      {  
+         "id":30,
+         "Nama Provider":"RS. PRIKASIH ",
+         "Alamat":" RS.FATMAWATI, NO.74, PONDOK LABU - CILANDAK 021-7501192/7504669"
+      }
+   ],
+   "claim":[  
+      {  
+         "claimid":123456,
+         "customerid":1,
+         "Nama":"Andi",
+         "Provider":"RS Budi Kemuliaan",
+         "Benefit":"Rawat Jalan",
+         "Diagnosis":"Typhoid Fever",
+         "Admission":"12/04/2019",
+         "Incured":"Rp. 1.000.000",
+         "Approved":"Rp. 800.000",
+         "Excess":"Rp. 200.000"
+      }
+   ]
 }
